@@ -1,1 +1,7 @@
-Dog
+class Dog
+  
+  
+  
+  
+end 
+
